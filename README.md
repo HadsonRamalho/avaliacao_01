@@ -68,7 +68,7 @@ Resposta: [4.5L, 0.4L], sobra 0L;
 - Deverá ter uma tela de envio de informações do galão e das garrafas, que será composto por:
 - 1) Um campo para inserir a quantidade de litros do galão;
 - 2) Um campo para inserir um CSV, composto por quantidade de litros de cada garrafa;
-- As informações do galão, das garrafas e do resultado deverão ser armazenados em um CSV e salvá-lo em uma pasta no backend para ser possível baixá-lo depois;
-- Deverá ter uma tela de listagens de arquivos armazenados, e um botão de download em cada linha;
-- Opcional: Na tela de listagem de arquivos armazenados, deverá ser possível enviar os arquivos por email;
+- As informações do galão, das garrafas e do resultado deverão ser armazenados em um banco de dados ou em um CSV em uma pasta no backend;
+- Deverá ter uma tela de registros, onde cada registro terá um botão de exportação desses dados em CSV;
+- Opcional: Na tela de registros, deverá ser possível enviar os dados dos registros selecionados por email;
 
